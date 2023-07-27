@@ -1,2 +1,2 @@
 # frontend-challenge-es
-EmbedSocial Frontend Internship Challenge
+Frontend Internship Challenge
